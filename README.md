@@ -1,2 +1,2 @@
 # javascript-project
-It will contain my javascript project
+It will contain all javascript projects
